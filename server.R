@@ -1,6 +1,3 @@
-setwd("C:/Users/Yiling/Desktop/DSCI598 Capstone Project/R Code/project/project")
-
-
 shinyServer(function(input, output) {
   
 ###Lab View
